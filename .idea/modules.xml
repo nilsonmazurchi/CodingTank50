@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Aula 03/Aula 03.iml" filepath="$PROJECT_DIR$/Aula 03/Aula 03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula01/Aula01.iml" filepath="$PROJECT_DIR$/Aula01/Aula01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula02/Aula02.iml" filepath="$PROJECT_DIR$/Aula02/Aula02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Calculadora/Calculadora.iml" filepath="$PROJECT_DIR$/Calculadora/Calculadora.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/CodingTank50.iml" filepath="$PROJECT_DIR$/.idea/CodingTank50.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exerc01/exerc01.iml" filepath="$PROJECT_DIR$/exerc01/exerc01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exerc02/exerc02.iml" filepath="$PROJECT_DIR$/exerc02/exerc02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exerc03/exerc03.iml" filepath="$PROJECT_DIR$/exerc03/exerc03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exerc04/exerc04.iml" filepath="$PROJECT_DIR$/exerc04/exerc04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exerc05/exerc05.iml" filepath="$PROJECT_DIR$/exerc05/exerc05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exerc06/exerc06.iml" filepath="$PROJECT_DIR$/exerc06/exerc06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exerc07/exerc07.iml" filepath="$PROJECT_DIR$/exerc07/exerc07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exerc08/exerc08.iml" filepath="$PROJECT_DIR$/exerc08/exerc08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exerc09e10/exerc09e10.iml" filepath="$PROJECT_DIR$/exerc09e10/exerc09e10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exerc11/exerc11.iml" filepath="$PROJECT_DIR$/exerc11/exerc11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exerc12/exerc12.iml" filepath="$PROJECT_DIR$/exerc12/exerc12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exerc14/exerc14.iml" filepath="$PROJECT_DIR$/exerc14/exerc14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exerc15/exerc15.iml" filepath="$PROJECT_DIR$/exerc15/exerc15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exerc16/exerc16.iml" filepath="$PROJECT_DIR$/exerc16/exerc16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exerc17/exerc17.iml" filepath="$PROJECT_DIR$/exerc17/exerc17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exerc18/exerc18.iml" filepath="$PROJECT_DIR$/exerc18/exerc18.iml" />
+    </modules>
+  </component>
+</project>
